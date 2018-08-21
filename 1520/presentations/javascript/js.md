@@ -1,13 +1,9 @@
-# Du-du-duuuuummmm!
 
-<!-- .slide: class="section-title" data-background="/lib/images/section-bkg.png" -->
-
--###-
 
 # Why?
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="https://media.tenor.com/images/7419e0b27cf1cf57c55516b42b38b2e7/tenor.gif" -->
+<!-- .slide: class="section-title" data-background="/lib/images/section-bkg.png" -->
+
 
 -###-
 
@@ -69,8 +65,8 @@
 
 ## Java
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="http://gifimage.net/wp-content/uploads/2017/06/rage-gif-12.gif" -->
+<!-- .slide: class="section-title" data-background="/lib/images/section-bkg.png" -->
+
 
 * Java source code is compiled into bytecode
 	* Which is then run by the JVM
