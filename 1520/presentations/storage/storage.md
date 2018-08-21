@@ -69,7 +69,7 @@ Note:
 	* Remove all key/value pairs from `localStorage`
 
 Note:
-* [js12](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js12_storage.html)
+* [js12](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/js/js12_storage.html)
 * Note that order of keys is lexicographical
 * Change up to use key(i) when loading data, note differences
 * Data saved in storage under http, will be inaccessible via https
