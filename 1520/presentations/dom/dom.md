@@ -34,7 +34,7 @@ How would you apply it to a detailed web page?
 
 ## What about something more complex?
 
-* [Something More Complex](https://w8s-class.github.io/CS1520-Class-Information/examples/html/index.html)
+* [Something More Complex](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/html/index.html)
 * View source
 
 -###-
@@ -105,7 +105,7 @@ Note:
 * `Node.removeChild(child)` removes child from the document
 * `Node.replaceChild(new_node, old_child)` replaces `old_child` with `new_node` in the document
 
-Note: [js8](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js8_dom.html)
+Note: [js8](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/js/js8_dom.html)
 
 -###-
 
@@ -126,8 +126,8 @@ Note: [js8](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js8
 
 Note:
 
-* [js9](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js9_more_dom.html)
-* [js10](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js10_danger_dom.html)
+* [js9](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/js/js9_more_dom.html)
+* [js10](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/js/js10_danger_dom.html)
 
 -###-
 
@@ -212,4 +212,4 @@ Note:
 
 Note the lowest element in the DOM won't be affected by useCapture, only visited once, hence it gets its own phase
 
-* [js11](https://w8s-class.github.io/CS1520-Class-Information/examples/js/js11_capture_dom.html)
+* [js11](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master/1520/examples/js/js11_capture_dom.html)

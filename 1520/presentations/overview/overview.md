@@ -15,18 +15,16 @@
 
 <!-- .slide: class="element-bkg" data-background-image="https://i.makeagif.com/media/5-24-2015/QYib8h.gif" -->
 
-### Todd Waits
+### Rebecca Makar
 
-* Email: [me@toddwaits.org](mailto:me@toddwaits.org)
-* Slack: <https://cs1520-spring2018.slack.com>
-* <https://appear.in>
+* Email: rebeccalmakar@gmail.com
 * Office: 6148
 
 -###-
 
 ## Class Information
 
-* All other info appears on the class [website](https://github.com/w8s-class/CS1520-Class-Information)
+* All other info appears on the class [website](https://github.com/rebecca-makar/rebecca-makar.github.io)
     * E.g., office hours, TA contact info/office hours
 
 -###-
@@ -54,7 +52,7 @@ Note:
 
 ## Course Information
 
-* Course Website <https://github.com/w8s-class/CS1520-Class-Information>
+* Course Website <https://github.com/rebecca-makar/rebecca-makar.github.io>
 * Review the Course Information and Policies
 
 * Assignments will not be accepted after the deadline <!-- .element: class="fragment highlight-red" -->

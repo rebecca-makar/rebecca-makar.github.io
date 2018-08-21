@@ -336,7 +336,7 @@ Note:
 
 ```python
 empty = {}
-d = {"Waits":1520, "Garrison":8}
+d = {"Makar":1520, "Garrison":8}
 d["Ramirez"] = 1501
 
 d.keys()
@@ -375,8 +375,8 @@ for n, item in enumerate(crazy_list):
 
 ```python
 squares = [x**2 for x in range(10)]
-names = ['TODD', 'WAITS']
-lower = [name.lower() for name in names if name == "TODD"]
+names = ['REBECCA', 'MAKAR']
+lower = [name.lower() for name in names if name == "REBECCA"]
 ```
 
 -###-
@@ -400,7 +400,7 @@ Note:
 ```python
 { x.upper() for x in names } # set
 
-classes = { 'Waits': 'CS1520', 'Ramirez': 'CS1520', 'Frank': 'CS1401' }
+classes = { 'Makar': 'CS1520', 'Ramirez': 'CS1520', 'Frank': 'CS1401' }
 { name:class for name, class in classes.items() if class == 'CS1520' } # dict
 ```
 
