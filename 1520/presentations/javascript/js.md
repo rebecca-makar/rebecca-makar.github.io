@@ -13,8 +13,7 @@
 
 ## Why?
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="https://media.tenor.com/images/68f3a1332dd5fdb33ed3fe03c7d6c29a/tenor.gif" -->
+
 
 * By themselves, HTML and CSS can provide a description of the structure and presentation of a document to the browser
 	* A static document. <!-- .element: class="fragment" -->
@@ -23,8 +22,7 @@
 
 ## But, Why?
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="https://media.tenor.com/images/7593a2834017ecc8fca9919241360f51/tenor.gif" -->
+
 
 * What are we building in the class?
 	* Dynamic applications <!-- .element: class="fragment" -->
@@ -33,8 +31,7 @@
 
 ## But, Seriously, Why?!
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="https://media.tenor.com/images/63bb9b7a9edff9624893fcd1a9a6981a/tenor.gif" -->
+
 
 * Even the most seemingly simple thing can be made annoyingly laborious for users without a dynamic site.
 	* Contact Us <!-- .element: class="fragment" -->

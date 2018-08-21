@@ -4,6 +4,8 @@
 * [Assignments](https://rebecca-makar.github.io/1520/assignments/)
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
 
+* Information and class set up taken from Todd Waits: https://w8s-class.github.io/CS1520-Class-Information/
+
 ## Course Information
 
 | Class                | Class Number  | Location | Time           |
@@ -19,7 +21,7 @@ Rebecca Makar
 
 * Email: rebeccalmakar@gmail.com
 
-I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will not be monitoring Slack or Email between the hours of 10p-8a. Weekend responses will be spotty.
+I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will not be monitoring Slack or Email between the hours of 10p-8a.
 
 
 **APPEND `[CS1520]` TO ALL EMAIL COMMUNICATION SUBJECT LINES.** I will lose track of emails that do not include that in the subject.
@@ -28,7 +30,6 @@ I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will
 
 | Office     | Hours   |
 |:-----------|:--------|
-| SENSQ 6148 | M 4p-5p |
 
 And by appointment.
 
@@ -60,11 +61,11 @@ We will rely on online resources and library documentation (linked below).
 
 **Midterm**
 
-* Oct. 16, 2018 Class Peroid
+* Oct. 16, 2018 
 
 **Final:**
 
-* Dec. 11, 2018 Class Period
+* Dec. 11, 2018 
 
 | #  | Date       | Topics                                                | Materials                                                                                                               |
 |:---|:-----------|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
@@ -211,7 +212,7 @@ We will rely on online resources and library documentation (linked below).
 
 ### Announcements
 
-The instructor and TA will periodically post announcements to the course websites (GitHub, Slack, CourseWeb). It is every student's responsibility to regularly monitor these announcements.
+The instructor and TA will periodically post announcements to the course websites (GitHub and CourseWeb). It is every student's responsibility to regularly monitor these announcements.
 
 ### Academic Integrity
 

@@ -1,7 +1,6 @@
 ## Javascript File I/O
 
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="https://media.giphy.com/media/TbUMPa2py8UVi/giphy.gif" -->
+<!-- .slide: class="section-title" data-background="/lib/images/section-bkg.png" -->
 
 Tell me a story about Javascript and File I/O
 

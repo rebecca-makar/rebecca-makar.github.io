@@ -13,8 +13,6 @@
 
 ## Instructor Info
 
-<!-- .slide: class="element-bkg" data-background-image="https://i.makeagif.com/media/5-24-2015/QYib8h.gif" -->
-
 ### Rebecca Makar
 
 * Email: rebeccalmakar@gmail.com
@@ -30,9 +28,6 @@
 -###-
 
 ## How to Email
-
-<!-- .slide: class="element-bkg" -->
-<!-- .slide: data-background-image="http://0.media.dorkly.cvcdn.com/92/72/77a6f1576e187ef11ec91b7e179e54e1.gif" -->
 
 * Prefix all email subjects with <span class="fragment highlight-orange">[CS1520]</span>
 * Address all emails to both the instructor and the TA
