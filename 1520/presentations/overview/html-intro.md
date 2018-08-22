@@ -13,6 +13,14 @@
 
 -###-
 
+## HTML
+
+* HTML is not a programming language - it is a mark up langugage.
+* Neither is SQL or XML
+     * extensions to these languages can be computer languages.
+* Just as SQL is a data query language, HTML is a text-formatting language.
+-###-
+
 ## Intro to HTML5
 
     <!DOCTYPE html>
