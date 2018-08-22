@@ -6,14 +6,10 @@
 
 ##  Version Control Systems
 
-* Version control systems record changes to a file or set of files over time so that you can recall specific versions later
-* Many systems have risen to popularity over the years
-    * RCS
-    * CVS
-    * Subversion
-* We will focus on Git
-
--###-
+* VCS are sometimes known as SCM (Source Code Management) tools or RCS (Revision Control System). 
+* One of the most popular VCS tools in use today is called Git. 
+* Git is a Distributed VCS. 
+    * Like many of the most popular VCS systems available today, Git is free and open source.
 
 ##  Why use Version Control?
 
