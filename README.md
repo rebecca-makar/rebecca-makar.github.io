@@ -24,8 +24,7 @@ Rebecca Makar
 I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will not be monitoring Slack or Email between the hours of 10p-8a.
 
 
-**APPEND `[CS1520]` TO ALL EMAIL COMMUNICATION SUBJECT LINES.** I will lose track of emails that do not include that in the subject.
-
+**APPEND `[CS1520]` TO ALL EMAIL COMMUNICATION SUBJECT LINES.** 
 #### Office Hours
 
 | Office     | Hours   |
@@ -43,7 +42,6 @@ Robert W. Sebesta
 ISBN-13: 9780133776096
 
 I will not be using this text book in the class, but it does contain good information.
-
 We will rely on online resources and library documentation (linked below).
 
 ## Grading Breakdown
