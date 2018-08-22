@@ -67,12 +67,12 @@ We will rely on online resources and library documentation (linked below).
 
 | #  | Week Of      | Topics                                                | Materials                                                                                                               |
 |:---|:-----------|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
-| 0  | 8/28/2018  | Introduction to the course                            | [Goals of the course](https://rebecca-makar.github.io/1520/course-overview.html)                        |
+| 0  | 8/28/2018 - 8/30/2018  | Introduction to the course                            | [Goals of the course](https://rebecca-makar.github.io/1520/course-overview.html)                        |
 |    |            |                                                       | Brief HTML/CSS overview slides                                                                                          |
 |    |            |                                                       | [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)                                                           |
 |    |            |                                                       | [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)                                                             |
 |    |            |                                                       | [Example Source](https://github.com/1520/tree/master/docs/examples/html)                  |
-| 1  | 9/4/2018  | Introduction to client-side scripting with Javascript | [slides](https://rebecca-makar.github.io/1520/js.html)                                                  |
+| 1  | 9/4/2018 - 9/6/2018  | Introduction to client-side scripting with Javascript | [slides](https://rebecca-makar.github.io/1520/js.html)                                                  |
 |    |            |                                                       | [MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                                       |
 |    |            |                                                       | [js1](https://github.com/1520/tree/master/docs/examples/js/js1_basic.html)                |
 |    |            |                                                       | [js2](https://github.com/1520/tree/master/docs/examples/js/js2_vars_types.html)           |
@@ -81,7 +81,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [js5](https://github.com/1520/tree/master/docs/examples/js/js5_arrays.html)               |
 |    |            |                                                       | [js6](https://github.com/1520/tree/master/docs/examples/js/js6_objects.html)              |
 |    |            |                                                       | [js7](https://github.com/1520/tree/master/docs/examples/js/js7_more_objects.html)         |
-| 2  | 9/11/2018  | The DOM and Event-driven Programming                  | [slides](https://rebecca-makar.github.io/1520/dom.html)                                                 |
+| 2  | 9/11/2018 - 9/13/2018  | The DOM and Event-driven Programming                  | [slides](https://rebecca-makar.github.io/1520/dom.html)                                                 |
 |    |            |                                                       | [MDN Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)                                               |
 |    |            |                                                       | [MDN DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)                                       |
 |    |            |                                                       | [MDN Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)                                                       |
@@ -93,17 +93,17 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [js9](https://rebecca-makar.github.io/1520/examples/js/js9_more_dom.html)                               |
 |    |            |                                                       | [js10](https://rebecca-makar.github.io/1520/examples/js/js10_danger_dom.html)                           |
 |    |            |                                                       | [js11](https://rebecca-makar.github.io/1520/examples/js/js11_capture_dom.html)                          |
-| 3  | 9/18/2018  | Web Storage                                           | [slides](https://rebecca-makar.github.io/1520/storage.html)                                             |
+| 3  | 9/18/2018 - 9/20/2018  | Web Storage                                           | [slides](https://rebecca-makar.github.io/1520/storage.html)                                             |
 |    |            |                                                       | [MDN Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Storage)                                             |
 |    |            |                                                       | Javascript examples: [js12](https://rebecca-makar.github.io/1520/examples/js/js12_storage.html)         |
-| 4  | 9/25/2018  | Regular Expressions                                   | [slides](https://rebecca-makar.github.io/1520/regex.html)                                               |
+| 4  | 9/25/2018 - 9/27/2018 | Regular Expressions                                   | [slides](https://rebecca-makar.github.io/1520/regex.html)                                               |
 |    |            |                                                       | [MDN Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)                    |
 |    |            |                                                       | Javascript examples:                                                                                                    |
 |    |            |                                                       | [js13](https://rebecca-makar.github.io/1520/examples/js/js13_regex.html)                                |
 |    |            |                                                       | [js14](https://rebecca-makar.github.io/1520/examples/js/js14_more_regex.html)                           |
-| 5  | 10/2/2018  | HTTP Overview and Introduction to Networking          | [slides](https://rebecca-makar.github.io/1520/http.html)                                                |
+| 5  | 10/4/2018  | HTTP Overview and Introduction to Networking          | [slides](https://rebecca-makar.github.io/1520/http.html)                                                |
 |    |            |                                                       | [MDN HTTP codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)                                              |
-| 6  | 10/9/2018  | Python                                                | [slides](https://rebecca-makar.github.io/1520/python.html)                                              |
+| 6  | 10/9/2018 - 10/11/2018  | Python                                                | [slides](https://rebecca-makar.github.io/1520/python.html)                                              |
 |    |            |                                                       | Tutorial                                                                                                                |
 |    |            |                                                       | [Language reference](https://docs.python.org/3/reference/index.html)                                                    |
 |    |            |                                                       | [Standard library](https://docs.python.org/3/library/index.html)                                                        |
@@ -116,7 +116,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [py7](https://rebecca-makar.github.io/1520/examples/python/py7_oo.py">)                                 |
 |    |            |                                                       | [py8](https://rebecca-makar.github.io/1520/examples/python/py8_dec.py)                                  |
 |    |            |                                                       | [py9](https://rebecca-makar.github.io/1520/examples/python/py9_context.py)                              |
-| 7  | 10/17/2018 | Server-side scripting with Flask                      | [slides](https://rebecca-makar.github.io/1520/flask.html)                                               |
+| 7  | 10/16/2018 - 10/18/2018 | Server-side scripting with Flask                      | [slides](https://rebecca-makar.github.io/1520/flask.html)                                               |
 |    |            |                                                       | [Installation](http://flask.pocoo.org/docs/0.12/installation/)                                                          |
 |    |            |                                                       | [Python 3 note](http://flask.pocoo.org/docs/0.12/python3/#python3-support)                                              |
 |    |            |                                                       | [Quickstart](http://flask.pocoo.org/docs/0.12/quickstart/)                                                              |
@@ -127,13 +127,13 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [fl4](https://rebecca-makar.github.io/1520/examples/flask/fl4_login.py)                                 |
 |    |            |                                                       | [fl5](https://rebecca-makar.github.io/1520/examples/flask/fl5_redirect.py)                              |
 |    |            |                                                       | [fl6](https://rebecca-makar.github.io/1520/examples/flask/fl6_session_login.py)                         |
-| 8  | 10/23/2018 | Using Templates to Generate Views in Flask            | [slides](https://rebecca-makar.github.io/1520/flask-templates.html)                                     |
+| 8  | 10/23/2018 - 10/25/2018 | Using Templates to Generate Views in Flask            | [slides](https://rebecca-makar.github.io/1520/flask-templates.html)                                     |
 |    |            |                                                       | [Jinja2 docs](http://jinja.pocoo.org/docs/2.9/)                                                                         |
 |    |            |                                                       | [Template Inheritance](http://jinja.pocoo.org/docs/2.9/templates/#template-inheritance)                                 |
 |    |            |                                                       | Flask examples: [fl7](https://rebecca-makar.github.io/1520/examples/flask/fl7_templates.zip)            |
 |    |            |                                                       | [fl8](https://rebecca-makar.github.io/1520/examples/flask/fl8_adv_templates.zip)                        |
 |    |            |                                                       | [fl9](https://rebecca-makar.github.io/1520/examples/flask/fl9_flash.zip)                                |
-| 9  | 10/23/2018 | Developing Models in Flask                            | [slides](https://rebecca-makar.github.io/1520/flask-models.html)                                        |
+| 9  | 10/23/2018 - 10/25/2018 | Developing Models in Flask                            | [slides](https://rebecca-makar.github.io/1520/flask-models.html)                                        |
 |    |            |                                                       | [SQLAlchemy install guide](http://docs.sqlalchemy.org/en/latest/intro.html#installation-guide)                          |
 |    |            |                                                       | [Flask-SQLAlchemy quickstart](http://flask-sqlalchemy.pocoo.org/2.3/quickstart/)                                        |
 |    |            |                                                       | [Flask-SQLAlchemy user's guide](http://flask-sqlalchemy.pocoo.org/2.3/)                                                 |
@@ -151,7 +151,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [sqlalchemy1](https://rebecca-makar.github.io/1520/examples/flask/sqlalchemy1.zip)                      |
 |    |            |                                                       | [fl11](https://rebecca-makar.github.io/1520/examples/flask/fl11_flaskr.zip)                             |
 |    |            |                                                       | [fl12](https://rebecca-makar.github.io/1520/examples/flask/fl12_minitwit.zip)                           |
-| 10 | 10/30/2018 | AJAX, XML, JSON                                       | [slides](https://rebecca-makar.github.io/1520/ajax.html)                                                |
+| 10 | 10/30/2018 - 11/1/2018 | AJAX, XML, JSON                                       | [slides](https://rebecca-makar.github.io/1520/ajax.html)                                                |
 |    |            |                                                       | [MDN AJAX portal](https://developer.mozilla.org/en-US/docs/AJAX)                                                        |
 |    |            |                                                       | [MDN AJAX quickstart](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)                                    |
 |    |            |                                                       | [MDN JS Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)                                       |
@@ -159,14 +159,14 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [js15](https://rebecca-makar.github.io/1520/examples/js/js15_ajax.html)                                 |
 |    |            |                                                       | [js16](https://rebecca-makar.github.io/1520/examples/js/js16_ajax_in_action.zip)                        |
 |    |            |                                                       | [js17](https://rebecca-makar.github.io/1520/examples/js/js17_ajax_poll.zip)                             |
-| 11 | 11/6/2018  | REST, Building RESTful APIs with Flask                | [slides](https://rebecca-makar.github.io/1520/rest.html)                                                |
+| 11 | 11/6/2018 - 11/8/2018 | REST, Building RESTful APIs with Flask                | [slides](https://rebecca-makar.github.io/1520/rest.html)                                                |
 |    |            |                                                       | [Extended REST example](https://github.com/w8s-class/flask_api_sample/tree/sqlalchemy)                                  |
 |    |            |                                                       | [PayPal's REST API documentation](https://developer.paypal.com/docs/api/overview/)                                      |
 |    |            |                                                       | [Flask-RESTful documenation](http://flask-restful.readthedocs.io/en/latest/api.html)                                    |
 |    |            |                                                       | [Flask-RESTful installation](http://flask-restful.readthedocs.io/en/latest/installation.html)                           |
 |    |            |                                                       | [Flask-RESTful quickstart](http://flask-restful.readthedocs.io/en/latest/quickstart.html)                               |
 |    |            |                                                       | Flask examples: [fl13](https://rebecca-makar.github.io/1520/examples/flask/fl13_restful.zip)            |
-| 12 | 11/13/2018 | Functional programming                                | [slides](https://rebecca-makar.github.io/1520/functional.html)                                          |
+| 12 | 11/13/2018 - 11/15/2018 | Functional programming                                | [slides](https://rebecca-makar.github.io/1520/functional.html)                                          |
 |    |            |                                                       | [MDN Array.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)           |
 |    |            |                                                       | [MDN Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)     |
 |    |            |                                                       | [MDN Array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)     |
@@ -180,10 +180,10 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [js19-tuesday-functional](https://rebecca-makar.github.io/1520/examples/js/tuesday-func.js)             |
 |    |            |                                                       | [js20](https://rebecca-makar.github.io/1520/examples/js/js20_closure_motivation.html)                   |
 |    |            |                                                       | [js21](https://rebecca-makar.github.io/1520/examples/js/js21_closure.html)                              |
-| 13 | 11/20/2018 | Web security                                          | [slides](https://rebecca-makar.github.io/1520/security.html)                                            |
+| 13 | 11/20/2018  | Web security                                          | [slides](https://rebecca-makar.github.io/1520/security.html)                                            |
 |    |            |                                                       | [XSS Wikipedia article](https://en.wikipedia.org/wiki/Cross-site_scripting)                                             |
 |    |            |                                                       | [MDN CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)                                                      |
-| 14 | 11/20/2018 | Authentication                                        | [slides](https://rebecca-makar.github.io/1520/auth.html)                                                |
+| 14 | 11/20/2018  | Authentication                                        | [slides](https://rebecca-makar.github.io/1520/auth.html)                                                |
 |    |            |                                                       | [MDN HTTP Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)                             |
 |    |            |                                                       | [Base64 Encoding](https://en.wikipedia.org/wiki/Base64)                                                                 |
 |    |            |                                                       | [Flask Basic Authentication](https://flask-basicauth.readthedocs.io/en/latest/)                                         |
@@ -191,7 +191,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [OpenID](http://openid.net/)                                                                                            |
 |    |            |                                                       | Python examples: [py10](https://rebecca-makar.github.io/1520/examples/python/py10_dec2.py)              |
 |    |            |                                                       | [py11](https://rebecca-makar.github.io/1520/examples/python/py_11vararg.py)                             |
-| 15 | 11/27/2018 | Responsive design                                     | [slides](https://rebecca-makar.github.io/1520/responsive.html)                                          |
+| 15 | 11/27/2018 - 11/29/2018 | Responsive design                                     | [slides](https://rebecca-makar.github.io/1520/responsive.html)                                          |
 |    |            |                                                       | [Google Responsive Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)             |
 |    |            |                                                       | [MDN viewports](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport)                                             |
 |    |            |                                                       | [Viewports blog post](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)                        |
@@ -199,7 +199,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | CSS examples: [cs1](https://rebecca-makar.github.io/1520/examples/css/cs1_resp_inline.html)             |
 |    |            |                                                       | [cs2](https://rebecca-makar.github.io/1520/examples/css/cs2_resp_link.html)                             |
 |    |            |                                                       | [cs3](https://rebecca-makar.github.io/1520/examples/css/cs3_resp_import.html)                           |
-| 16 | 12/4/2018  | Progressive web apps, Javascript service workers      | [slides](https://rebecca-makar.github.io/1520/pwa.html)                                                 |
+| 16 | 12/4/2018 - 12/6/2018 | Progressive web apps, Javascript service workers      | [slides](https://rebecca-makar.github.io/1520/pwa.html)                                                 |
 |    |            |                                                       | [Google PWA tutorial](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)                        |
 |    |            |                                                       | [MDN Service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)                               |
 |    |            |                                                       | [MDN Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)                 |
