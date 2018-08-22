@@ -1,33 +1,20 @@
 
 
-# Why?
+## JavaScript
 
 <!-- .slide: class="section-title" data-background="/lib/images/section-bkg.png" -->
 
 
 -###-
 
-## Why?
-
-
+## Why use javascript?
 
 * By themselves, HTML and CSS can provide a description of the structure and presentation of a document to the browser
 	* A static document. <!-- .element: class="fragment" -->
 
 -###-
 
-## But, Why?
-
-
-
-* What are we building in the class?
-	* Dynamic applications <!-- .element: class="fragment" -->
-
--###-
-
 ## But, Seriously, Why?!
-
-
 
 * Even the most seemingly simple thing can be made annoyingly laborious for users without a dynamic site.
 	* Contact Us <!-- .element: class="fragment" -->
@@ -40,6 +27,7 @@
 
 ## Scripting Languages
 
+* A scripting or script language is a programming language that supports scripts: programs written for a special run-time environment that automate the execution of tasks that could alternatively be executed one-by-one by a human operator. Scripting languages are often interpreted (rather than compiled).
 * Programming languages designed for use within a given runtime environment
 	* Often to automate tasks for the user
 	* `bash`, `zsh`, `fish`
