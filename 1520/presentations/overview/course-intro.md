@@ -7,6 +7,7 @@
 
 * Examine the functionality of several <span class="fragment highlight-green">different programming languages</span> to gain a better understanding of the study of programming languages, themselves.
 * Learn the basics of and current practices for developing <span class="fragment highlight-green">web applications</span>.
+* Implement these skills
 
 -###-
 
