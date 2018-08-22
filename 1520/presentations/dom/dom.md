@@ -4,6 +4,14 @@
 
 -###-
 
+## DOM 
+
+* The Document Object Model (DOM) connects web pages to scripts or programming languages.
+* The DOM model represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. 
+* DOM methods allow programmatic access to the tree - with them you can change the document's structure, style or content. * Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.
+
+
+
 ## `document.write()` adds to the HTML being rendered
 
 * The JS console log is a bit more out of the way to get to
@@ -121,6 +129,7 @@ Note: [js8](https://github.com/rebecca-makar/rebecca-makar.github.io/blob/master
     * Maybe a click
     * Or even hovering the mouse over a portion of the page
 * This is the basic idea of event-driven programming
+* An event-driven program is one that largely responds to user events or other similar input. 
 * The flow of the program is determined by user actions
 * Our applications with *listen* for events to occur, and then run specified functions when they do
 
