@@ -54,14 +54,15 @@ We will rely on online resources and library documentation (linked below).
 | Participation        | 5%               |
 
 ## Schedule
-
 **Midterm**
-
-* Oct. 16, 2018 
+* **Oct. 16, 2018**
 
 **Final:**
+* **Dec. 11, 2018**
 
-* Dec. 11, 2018 
+
+
+
 
 | #  | Week Of      | Topics                                                | Materials                                                                                                               |
 |:---|:-----------|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
