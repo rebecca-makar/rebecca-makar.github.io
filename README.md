@@ -65,7 +65,7 @@ We will rely on online resources and library documentation (linked below).
 
 * Dec. 11, 2018 
 
-| #  | Date       | Topics                                                | Materials                                                                                                               |
+| #  | Week Of      | Topics                                                | Materials                                                                                                               |
 |:---|:-----------|:------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
 | 0  | 8/28/2018  | Introduction to the course                            | [Goals of the course](https://rebecca-makar.github.io/1520/course-overview.html)                        |
 |    |            |                                                       | Brief HTML/CSS overview slides                                                                                          |
