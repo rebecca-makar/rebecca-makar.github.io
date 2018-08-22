@@ -15,6 +15,7 @@
 
 ### Rebecca Makar
 
+* Software Engineer - Microsoft Corporation
 * Email: rebeccalmakar@gmail.com
 * Office: 6148
 
@@ -31,7 +32,7 @@
 
 * Prefix all email subjects with <span class="fragment highlight-orange">[CS1520]</span>
 * Address all emails to both the instructor and the TA
-    * Assume that if it is not documented (in chat or email), it did not happen.
+    * If you have any questions or concerns please send an email or a slack message.
 
 Note:
 
