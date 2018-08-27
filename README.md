@@ -2,6 +2,11 @@
 
 * [Slides](https://rebecca-makar.github.io/1520/)
 * [Assignments](https://rebecca-makar.github.io/1520/assignments/)
+  * [Assignment 1: Create Repo Here](https://classroom.github.com/a/J04EtlK3)
+  * [Assignment 2: Create Repo Here](https://classroom.github.com/a/CNJHCOVy)
+  * [Assignment 3: Create Repo Here](https://classroom.github.com/a/4oR3V5Jm)
+  * [Assignment 4: Create Repo Here](https://classroom.github.com/a/hceBCguB)
+
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
 * [Slack Channel](https://cs1520-fall2018.slack.com/)
 
