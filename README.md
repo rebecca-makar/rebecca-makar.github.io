@@ -5,7 +5,7 @@
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
 * [Slack Channel](https://cs1520-fall2018.slack.com/)
 
-* Information and class set up taken from Todd Waits: https://w8s-class.github.io/CS1520-Class-Information/
+* Information and class set up taken from [Todd Waits Class](https://w8s-class.github.io/CS1520-Class-Information/)
 
 ## Course Information
 
