@@ -56,8 +56,8 @@ We will rely on online resources and library documentation (linked below).
 |:---------------------|:-----------------|
 | First Exam           | 20%              |
 | Second Exam          | 20%              |
-| Programming Projects | 55%              |
-| Participation        | 5%               |
+| Programming Projects | 50%              |
+| Participation        | 10%               |
 
 ## Schedule
 **Midterm**
