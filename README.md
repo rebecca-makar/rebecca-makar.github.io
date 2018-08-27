@@ -3,7 +3,7 @@
 * [Slides](https://rebecca-makar.github.io/1520/)
 * [Assignments](https://rebecca-makar.github.io/1520/assignments/)
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
-* [Slack Channel](cs1520-fall2018.slack.com)
+* [Slack Channel](https://cs1520-fall2018.slack.com/)
 
 * Information and class set up taken from Todd Waits: https://w8s-class.github.io/CS1520-Class-Information/
 
