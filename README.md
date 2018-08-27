@@ -49,9 +49,9 @@ We will rely on online resources and library documentation (linked below).
 
 | Interaction          | Grade Percentage |
 |:---------------------|:-----------------|
-| First Exam           | 25%              |
-| Second Exam          | 25%              |
-| Programming Projects | 45%              |
+| First Exam           | 20%              |
+| Second Exam          | 20%              |
+| Programming Projects | 55%              |
 | Participation        | 5%               |
 
 ## Schedule
