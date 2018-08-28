@@ -1,15 +1,1 @@
-body {
-    background-image: url("fleet.jpg");
-}
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    column-width: 25px;
-    text-align: center;
-    background-color: cyan;
-}
-
-.label {
-	font-weight: bold;
-}
