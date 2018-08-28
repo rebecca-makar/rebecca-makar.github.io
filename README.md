@@ -79,13 +79,13 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [Example Source](https://github.com/1520/tree/master/docs/examples/html)                  |
 | 1  | 9/4/2018 - 9/6/2018  | Introduction to client-side scripting with Javascript | [slides](https://rebecca-makar.github.io/1520/js.html)                                                  |
 |    |            |                                                       | [MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                                                       |
-|    |            |                                                       | [js1](https://github.com/1520/tree/master/docs/examples/js/js1_basic.html)                |
-|    |            |                                                       | [js2](https://github.com/1520/tree/master/docs/examples/js/js2_vars_types.html)           |
-|    |            |                                                       | [js3](https://github.com/1520/tree/master/docs/examples/js/js3_more_vars_types.html)      |
-|    |            |                                                       | [js4](https://github.com/1520/tree/master/docs/examples/js/js4_functions.html)            |
-|    |            |                                                       | [js5](https://github.com/1520/tree/master/docs/examples/js/js5_arrays.html)               |
-|    |            |                                                       | [js6](https://github.com/1520/tree/master/docs/examples/js/js6_objects.html)              |
-|    |            |                                                       | [js7](https://github.com/1520/tree/master/docs/examples/js/js7_more_objects.html)         |
+|    |            |                                                       | [js1](https://rebecca-makar.github.io/1520/examples/js/js1_basic.html)                |
+|    |            |                                                       | [js2](https://rebecca-makar.github.io/1520/examples/js/js2_vars_types.html)           |
+|    |            |                                                       | [js3](https://rebecca-makar.github.io/1520/examples/js/js3_more_vars_types.html)      |
+|    |            |                                                       | [js4](https://rebecca-makar.github.io/1520/examples/js/js4_functions.html)            |
+|    |            |                                                       | [js5](https://rebecca-makar.github.io/1520/examples/js/js5_arrays.html)               |
+|    |            |                                                       | [js6](https://rebecca-makar.github.io/1520/examples/js/js6_objects.html)              |
+|    |            |                                                       | [js7](https://rebecca-makar.github.io/1520/examples/js/js7_more_objects.html)         |
 | 2  | 9/11/2018 - 9/13/2018  | The DOM and Event-driven Programming                  | [slides](https://rebecca-makar.github.io/1520/dom.html)                                                 |
 |    |            |                                                       | [MDN Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)                                               |
 |    |            |                                                       | [MDN DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)                                       |
