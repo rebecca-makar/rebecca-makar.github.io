@@ -1,10 +1,18 @@
+body { 
+    background-color: DarkTurquoise;
+    }
+
 h1.aboutme, h4 {
-    color: pink;
+    color: white;
     font-style: italic;
 }
 
+.lead p {
+    color: Azure;
+}
+
 .class p {
-    color: blue;
+    color: white;
 }
 
 #first {
