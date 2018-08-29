@@ -1,10 +1,10 @@
-h1.awesome, h4 {
-    color: red;
+h1.about me, h4 {
+    color: pink;
     font-style: italic;
 }
 
 .class p {
-    color: brown;
+    color: blue;
 }
 
 #first {
