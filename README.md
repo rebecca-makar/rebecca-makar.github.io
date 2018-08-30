@@ -9,8 +9,7 @@
 
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
 * [Slack Channel](https://cs1520-fall2018.slack.com/)
-  * I will be sending posting an invite during our next class.
-
+   * [Invite to join](https://join.slack.com/t/cs1520-fall2018/shared_invite/enQtNDI2MDkwNTc4NzQyLWFiODI2ODZmMTFlZGY4NGEzZWNkZWUyNGNmOTJiNmE0NTQ0NDAyNWUwOWU0MGEyNDg2MWY3ZWRmMDc3ZjNlMDI)
 * Information and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
 ## Course Information
