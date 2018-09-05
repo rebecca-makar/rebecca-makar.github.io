@@ -18,7 +18,7 @@
 
 | Class                | Location | Time           |
 |:---------------------|:---------|:---------------|
-| Lecture              |   CL G 24 | TU/TH 6:00-7:15 PM |
+| Lecture              |  CL G 24 | TU/TH 6:00-7:15 PM |
 
 
 ### Instructor
@@ -36,9 +36,10 @@ I will not be monitoring Slack or Email between the hours of 9pm-8am.
 #### Office Hours
 
 | Office     | Hours   |
+|:-----------|:---------|
 |classroom |5:00-6:00 T/Th before class|
-And by appointment.
 
+Also available by appointment. 
 ### Optional Textbook
 
 [Programming the World Wide Web, 8th Ed.](https://www.amazon.com/Programming-World-Wide-Web-8th/dp/0133775984)
