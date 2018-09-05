@@ -104,7 +104,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | Javascript examples:                                                                                                    |
 |    |            |                                                       | [js13](https://rebecca-makar.github.io/1520/examples/js/js13_regex.html)                                |
 |    |            |                                                       | [js14](https://rebecca-makar.github.io/1520/examples/js/js14_more_regex.html)                           |
-| 5  | 10/4/2018  | HTTP Overview and Introduction to Networking          | [slides](https://rebecca-makar.github.io/1520/http.html)                                                |
+| 5  | 10/2/2018 - 10/4/2018  | HTTP Overview and Introduction to Networking          | [slides](https://rebecca-makar.github.io/1520/http.html)                                                |
 |    |            |                                                       | [MDN HTTP codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)                                              |
 | 6  | 10/9/2018 - 10/11/2018  | Python                                                | [slides](https://rebecca-makar.github.io/1520/python.html)                                              |
 |    |            |                                                       | Tutorial                                                                                                                |
@@ -119,7 +119,7 @@ We will rely on online resources and library documentation (linked below).
 |    |            |                                                       | [py7](https://rebecca-makar.github.io/1520/examples/python/py7_oo.py">)                                 |
 |    |            |                                                       | [py8](https://rebecca-makar.github.io/1520/examples/python/py8_dec.py)                                  |
 |    |            |                                                       | [py9](https://rebecca-makar.github.io/1520/examples/python/py9_context.py)                              |
-| 7  | 10/16/2018 - 10/18/2018 | Server-side scripting with Flask                      | [slides](https://rebecca-makar.github.io/1520/flask.html)                                               |
+| 7  | 10/16/2018  | Server-side scripting with Flask                      | [slides](https://rebecca-makar.github.io/1520/flask.html)                                               |
 |    |            |                                                       | [Installation](http://flask.pocoo.org/docs/0.12/installation/)                                                          |
 |    |            |                                                       | [Python 3 note](http://flask.pocoo.org/docs/0.12/python3/#python3-support)                                              |
 |    |            |                                                       | [Quickstart](http://flask.pocoo.org/docs/0.12/quickstart/)                                                              |
