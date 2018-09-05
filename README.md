@@ -16,9 +16,9 @@
 
 ## Course Information
 
-| Class                | Class Number  | Location | Time           |
-|:---------------------|:--------------|:---------|:---------------|
-| Lecture              |          |   CL G 24 | TU/TH 6:00-7:15 PM |
+| Class                | Location | Time           |
+|:---------------------|:---------|:---------------|
+| Lecture              |   CL G 24 | TU/TH 6:00-7:15 PM |
 
 
 ### Instructor
@@ -28,7 +28,8 @@ Rebecca Makar
 * Email: rebeccalmakar@gmail.com
 * Pitt Email: rlm127@pitt.edu
 
-I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will not be monitoring Slack or Email between the hours of 10p-8a.
+I will try to reply to email within 24 hrs, and Slack chats within 6 hrs. 
+I will not be monitoring Slack or Email between the hours of 9pm-8am.
 
 
 **APPEND `[CS1520]` TO ALL EMAIL COMMUNICATION SUBJECT LINES.** 
