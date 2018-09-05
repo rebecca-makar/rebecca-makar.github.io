@@ -1,4 +1,5 @@
 # Syllabus and Course Information CS/COE 1520 Fall 2018
+* Information/Slide Material and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
 * [Slides](https://rebecca-makar.github.io/1520/)
 * [Assignments](https://rebecca-makar.github.io/1520/assignments/)
@@ -10,15 +11,14 @@
 * [Examples](https://rebecca-makar.github.io/1520/examples/)
 * [Slack Channel](https://cs1520-fall2018.slack.com/)
    * [Invite to join](https://join.slack.com/t/cs1520-fall2018/shared_invite/enQtNDI2MDkwNTc4NzQyLWFiODI2ODZmMTFlZGY4NGEzZWNkZWUyNGNmOTJiNmE0NTQ0NDAyNWUwOWU0MGEyNDg2MWY3ZWRmMDc3ZjNlMDI)
-* Information and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
+   
+* Information/Slide Material and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
 ## Course Information
 
 | Class                | Class Number  | Location | Time           |
 |:---------------------|:--------------|:---------|:---------------|
 | Lecture              |          |   CL G 24 | TU/TH 6:00-7:15 PM |
-| Recitation Section 1 |               |          |                |
-| Recitation Section 2 |               |          |                |
 
 
 ### Instructor
@@ -35,11 +35,8 @@ I will try to reply to email within 24 hrs, and Slack chats within 4 hrs. I will
 #### Office Hours
 
 | Office     | Hours   |
-|:-----------|:--------|
+|classroom |5:00-6:00 T/Th before class|
 And by appointment.
-
-### TA
-
 
 ### Optional Textbook
 
@@ -62,12 +59,10 @@ We will rely on online resources and library documentation (linked below).
 
 ## Schedule
 **Midterm**
-* **Oct. 16, 2018**
+* **Thursday - Oct. 18, 2018**
 
 **Final:**
 * **Dec. 11, 2018**
-
-
 
 
 
@@ -283,4 +278,7 @@ In order to accommodate the observance of religious holidays, students should in
 | Pitt Academic Calendar         | <http://www.provost.pitt.edu/information-on/calendar.html> |
 | Pitt Student Counseling Center | <http://www.studentaffairs.pitt.edu/cchome>                |
 | Pitt Disability Resources      | <http://www.studentaffairs.pitt.edu/drswelcome>            |
+
+
+* Information/Slide Material and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
