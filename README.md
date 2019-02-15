@@ -1,5 +1,5 @@
 # Syllabus and Course Information CS/COE 1520 Fall 2018
-* Information/Slide Material and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
+* Information/Slide Material and class set up shared with [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
 * [Slides](https://rebecca-makar.github.io/1520/)
 * [Assignments](https://rebecca-makar.github.io/1520/assignments/)
@@ -282,5 +282,5 @@ In order to accommodate the observance of religious holidays, students should in
 | Pitt Disability Resources      | <http://www.studentaffairs.pitt.edu/drswelcome>            |
 
 
-* Information/Slide Material and class set up taken from [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
+* Information/Slide Material and class shared with [Todd Waits Class](https://github.com/w8s-class/CS1520-Class-Information/)
 
